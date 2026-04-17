@@ -7,7 +7,7 @@ import pandas as pd # Importante para mostrar el histórico en una tabla
 
 # Credenciales de la BD
 USER = "postgres.ptdaksmeogpoxqhuogtx"
-PASSWORD = "database_001990232*"
+PASSWORD = "database_001990232"
 HOST = "aws-1-us-east-2.pooler.supabase.com"
 PORT = "6543"
 DBNAME = "postgres"
